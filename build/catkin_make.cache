@@ -1,0 +1,2 @@
+arm_to_goal
+-DCATKIN_DEVEL_PREFIX=/home/xcrown/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xcrown/catkin_ws/install -DCATKIN_WHITELIST_PACKAGES=arm_to_goal -G Unix Makefiles
